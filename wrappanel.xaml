@@ -1,0 +1,31 @@
+﻿<Window x:Class="componovka.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:componovka"
+        mc:Ignorable="d"
+        Title="wrappanel" Height="450" Width="800">
+    <Grid>
+        <WrapPanel Orientation="Vertical">
+            <Button Background="AliceBlue" Content="Кнопка 1" Height="50" />
+            <Button Background="Blue" Content="Кнопка 2" />
+            <Button Background="Aquamarine" Content="Кнопка 3" Width="60"/>
+            <Button Background="DarkGreen" Content="Кнопка 4" Width="80"/>
+            <Button Background="LightGreen" Content="Кнопка 5"/>
+            <Button Background="RosyBrown" Content="Кнопка 6" Height="80" />
+            <Button Background="GhostWhite" Content="Кнопка 7" />
+            <Button Background="Bisque" Content="Кнопка 8" />
+            
+        </WrapPanel>
+        <WrapPanel ItemHeight="30" ItemWidth="80" Orientation="Horizontal" Margin="100,5,100,391">
+            <Button Background="AliceBlue" Content="1" />
+            <Button Background="Blue" Content="2" />
+            <Button Background="Aquamarine" Content="3"/>
+            <Button Background="DarkGreen" Content="4"/>
+            <Button Background="LightGreen" Content="5"/>
+            <Button Background="AliceBlue" Content="6"  />
+            <Button Background="Blue" Content="7" />
+        </WrapPanel>
+    </Grid>
+</Window>
