@@ -1,0 +1,3 @@
+C:\aa.college_all\WFP_app_oaip\obj\Debug\net6.0-windows\WFP_app_oaip.csproj.AssemblyReference.cache
+C:\aa.college_all\WFP_app_oaip\obj\Debug\net6.0-windows\App.g.cs
+C:\aa.college_all\WFP_app_oaip\obj\Debug\net6.0-windows\WFP_app_oaip_MarkupCompile.cache
