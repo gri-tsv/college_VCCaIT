@@ -1,0 +1,16 @@
+C:\aa.college_all\wpf_my1st\bin\Debug\wpf_my1st.exe.config
+C:\aa.college_all\wpf_my1st\bin\Debug\wpf_my1st.exe
+C:\aa.college_all\wpf_my1st\bin\Debug\wpf_my1st.pdb
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.csproj.AssemblyReference.cache
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.csproj.SuggestedBindingRedirects.cache
+C:\aa.college_all\wpf_my1st\obj\Debug\MainWindow.g.cs
+C:\aa.college_all\wpf_my1st\obj\Debug\App.g.cs
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st_MarkupCompile.cache
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st_MarkupCompile.lref
+C:\aa.college_all\wpf_my1st\obj\Debug\MainWindow.baml
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.g.resources
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.Properties.Resources.resources
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.csproj.GenerateResource.cache
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.csproj.CoreCompileInputs.cache
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.exe
+C:\aa.college_all\wpf_my1st\obj\Debug\wpf_my1st.pdb
