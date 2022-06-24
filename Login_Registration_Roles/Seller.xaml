@@ -1,0 +1,25 @@
+﻿<Page x:Class="wpf_cSharpcorner_Login_Registration_Process.Seller"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:wpf_cSharpcorner_Login_Registration_Process"
+      mc:Ignorable="d"
+      Title="Seller" Height="350" Width="550" >
+    <Grid Height="350" Width="550" Background="Bisque">
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="SellerTextBlock" HorizontalAlignment="Center" Margin="0,30,0,0" TextWrapping="Wrap" Text="Seller" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" Width="100" Height="50" FontFamily="MV Boli" />
+        <TextBlock x:Name="NewOrderText" HorizontalAlignment="Left" Margin="100,100,0,0" TextWrapping="Wrap" Text="New order" VerticalAlignment="Top" FontSize="18"/>
+        <TextBlock x:Name="NewClientText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="New client" VerticalAlignment="Top" FontSize="18" Margin="100,150,0,0"/>
+        <TextBox x:Name="NewOrderTextBox" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="35" Margin="33,100,0,0" FontSize="16"/>
+        <Button x:Name="AddOrderButton" Click="AddOrderButtonClick" Content="Add new order" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="130" Height="30" Grid.Column="1" FontWeight="Bold" FontSize="16" Margin="0,0,0,35"/>
+        <TextBox x:Name="NewClientTextBox" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Width="200" Height="34" Margin="33,0,0,0" FontSize="16"/>
+        <TextBox x:Name="NewServiceTextBox" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="34" Margin="33,200,0,0" FontSize="16"/>
+        <TextBlock x:Name="NewServiceText" HorizontalAlignment="Left" TextWrapping="Wrap" Text="New service" VerticalAlignment="Top" FontSize="18" Margin="100,200,0,0"/>
+
+    </Grid>
+</Page>
